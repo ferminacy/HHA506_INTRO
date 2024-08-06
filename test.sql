@@ -1,1 +1,1 @@
-select r
+select r and r
